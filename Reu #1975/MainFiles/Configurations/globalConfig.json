@@ -1,0 +1,27 @@
+﻿{
+    "prefix": ".",
+    "nametag": "Réu",
+    "hashtag": "1975",
+    "tag": "•",
+    "untag": "•",
+    "server": "852815172665212938",
+    "owner": "744229839137144925",
+    "footer": "Richârd ❤️ Réu #1975",
+    "bannedtag": ["0037", "³⁷", "〝"],
+
+    "ChatGuardActivity": "Richârd ❤️ Réu Chat Guard",
+    "GuardIActivity": "Richârd ❤️ Réu Guard I",
+    "GuardIIActivity": "Richârd ❤️ Réu Guard II",
+    "GuardIIIActivity": "Richârd ❤️ Réu Guard III",
+    "StatActivity": "Richârd ❤️ Réu Statistics",
+    "RegisterActivity": "Richârd ❤️ Réu Register",
+    "ModerationActivity": "Richârd ❤️ Réu Moderation",
+
+    "stat": "TOKEN",
+    "chatguard": "TOKEN",
+    "guard1": "TOKEN",
+    "guard2": "TOKEN",
+    "guard3": "TOKEN",
+    "register": "TOKEN",
+    "moderation": "TOKEN"
+}
